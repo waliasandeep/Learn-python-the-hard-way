@@ -1,4 +1,4 @@
-#Excersice 14
+#Exercise 14
 from sys import argv
 
 script, user_name = argv
