@@ -1,4 +1,4 @@
-#Excersice 13
+#Exercise 13
 
 #We are importing a module from sys
 from sys import argv
