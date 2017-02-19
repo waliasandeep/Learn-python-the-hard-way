@@ -1,4 +1,4 @@
-#Excersice 21
+#Exercise 21
 def add(a, b):
 	print "Adding %d + %d" % (a, b)
 	return a + b
