@@ -1,4 +1,4 @@
-#Excersice 11
+#Exercise 11
 #Taking basic inputs from the user
 print "How old are you?"
 age = raw_input()
