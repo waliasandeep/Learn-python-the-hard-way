@@ -1,4 +1,4 @@
-#Excersice 20
+#Exercise 20
 
 from sys import argv
 
