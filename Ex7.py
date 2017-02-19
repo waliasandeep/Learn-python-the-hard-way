@@ -1,4 +1,4 @@
-#Excersice 7
+#Exercise 7
 end1 = "C"
 end2 = "h"
 end3 = "e"
