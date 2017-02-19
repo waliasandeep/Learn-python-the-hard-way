@@ -1,4 +1,4 @@
-#Excersice 5 of Learning python the hard way
+#Exercice 5 of Learning python the hard way
 #%d is for integers
 #%s is for strings
 #%r I am still trying to find and understand :) Use the %r for debugging, since it displays the "raw" data of the variable,
