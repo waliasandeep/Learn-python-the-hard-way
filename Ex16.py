@@ -1,4 +1,4 @@
-#excersice 16 More File manipulation
+#Exercise 16 More File manipulation
 
 filename = raw_input("Enter the file name")
 print "We are going to erase the file %r" %filename
