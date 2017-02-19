@@ -1,0 +1,10 @@
+this
+document 
+will
+have 10
+lines
+and 
+first
+two will
+be 
+displayed twice!
