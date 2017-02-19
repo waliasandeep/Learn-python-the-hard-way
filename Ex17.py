@@ -1,4 +1,4 @@
-#Excersice 17
+#Exercise 17
 from sys import argv
 from os.path import exists
 
