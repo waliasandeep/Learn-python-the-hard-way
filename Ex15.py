@@ -1,4 +1,4 @@
-# Excersice 15
+# Exercise 15
 from sys import argv
 
 script, filename = argv
