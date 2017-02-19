@@ -1,4 +1,4 @@
-#Excersice 18
+#Exercise 18
 
 #this function is the most interesting because of it's arguments
 #First we take a *args(list of arguments) which works like (script,arg1 = argv)
