@@ -1,4 +1,4 @@
-#Excersice 19 
+#Exercise 19 
 
 def cheese_and_crackers(cheese_count, boxes_of_crackers):
 	print "You have %d cheeses!" % cheese_count
