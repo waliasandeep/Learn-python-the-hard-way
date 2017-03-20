@@ -15,3 +15,10 @@ end12 ="r"
 #line seperated by a space otherwise they will be on different lines 
 print end1 + end2 + end3 + end4 + end5 + end6,
 print end7+ end8 + end9 + end10 + end11 + end12 
+"""
+With , at the end 
+output = Cheese Burger
+Without , at the end
+output = Cheese
+         Burger
+"""
