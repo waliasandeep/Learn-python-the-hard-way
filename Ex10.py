@@ -19,3 +19,17 @@ print fat_cat
 #"""%r will print everything raw and no escape sequence will come into effect while
 #using them
 print "test %r \n" %fat_cat
+"""
+input
+print "test %r \n"%fat_cat
+output
+test "\nI'll do a list\n\t* Cat Food\n\t* Fishies\n\t* Catnip\n\t* Grass\n"
+input
+>>> print "test %s \n"%fat_cat
+output
+test
+I'll do a list
+        * Cat Food
+        * Fishies
+        * Catnip
+        * Grass
